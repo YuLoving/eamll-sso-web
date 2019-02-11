@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /page/register HTTP/1.1" 200 8104 http-bio-8194-exec-1 1400
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /css/headerfooter.css HTTP/1.1" 200 2511 http-bio-8194-exec-2 54
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /css/reg.css?v20140432 HTTP/1.1" 200 27612 http-bio-8194-exec-5 43
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /css/headerfooterindex.css HTTP/1.1" 200 3264 http-bio-8194-exec-4 44
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /css/jquery.alerts.css HTTP/1.1" 200 741 http-bio-8194-exec-3 42
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /images/pic2.jpg HTTP/1.1" 200 69809 http-bio-8194-exec-6 27
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /images/reg_tip.png HTTP/1.1" 200 1146 http-bio-8194-exec-8 44
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /images/tabbg.jpg HTTP/1.1" 200 843 http-bio-8194-exec-10 27
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /images/tabbg1.jpg HTTP/1.1" 200 935 http-bio-8194-exec-9 40
+0:0:0:0:0:0:0:1 - - [22/Jan/2019:10:48:08 +0800] "GET /images/reg_btn.jpg HTTP/1.1" 200 4574 http-bio-8194-exec-7 43
